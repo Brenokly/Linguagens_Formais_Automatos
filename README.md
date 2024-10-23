@@ -1,5 +1,10 @@
 # README do Algoritmo de Autômato 🤖
 
+## Disciplina: Linguagens Formais e Autômatos 📚
+### Curso: Ciência da Computação 💻
+### Universidade: Ufersa - Universidade Federal Rural do Semi-Árido 🌱
+### Ano: 2023 📅
+
 ## Descrição 📜
 
 Este programa em C++ implementa um autômato finito que aceita cadeias de entrada baseadas em um conjunto de estados e transições. Ele permite ao usuário definir os estados do autômato, as transições entre eles e testar cadeias de entrada para verificar se são aceitas pelo autômato.
