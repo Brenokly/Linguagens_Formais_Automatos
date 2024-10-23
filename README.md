@@ -1,6 +1,3 @@
-Aqui está o seu README do algoritmo de autômato com alguns emojis legais para torná-lo mais visual e atraente:
-
-```markdown
 # README do Algoritmo de Autômato 🤖
 
 ## Descrição 📜
