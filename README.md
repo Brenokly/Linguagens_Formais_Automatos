@@ -77,4 +77,3 @@ Este algoritmo de autômato é uma ferramenta básica para entender como funcion
 ## Licença 📄
 
 Este projeto é de uso educacional. Sinta-se à vontade para modificá-lo e usá-lo para fins de aprendizado.
-```
