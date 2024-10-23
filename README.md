@@ -1,10 +1,13 @@
-# README do Algoritmo de Autômato
+Aqui está o seu README do algoritmo de autômato com alguns emojis legais para torná-lo mais visual e atraente:
 
-## Descrição
+```markdown
+# README do Algoritmo de Autômato 🤖
+
+## Descrição 📜
 
 Este programa em C++ implementa um autômato finito que aceita cadeias de entrada baseadas em um conjunto de estados e transições. Ele permite ao usuário definir os estados do autômato, as transições entre eles e testar cadeias de entrada para verificar se são aceitas pelo autômato.
 
-## Estruturas de Dados
+## Estruturas de Dados 📊
 
 O programa utiliza duas estruturas principais:
 
@@ -19,7 +22,7 @@ O programa utiliza duas estruturas principais:
    - `final`: Um booleano que indica se o estado é final.
    - `returnPos_Estado`: Um método que retorna o próximo estado com base no símbolo lido.
 
-## Funcionalidades
+## Funcionalidades ⚙️
 
 - **Definição de Estados**: O usuário pode inserir o número de estados e nomeá-los.
 - **Definição do Alfabeto**: O usuário insere os símbolos que serão usados para as transições.
@@ -28,13 +31,13 @@ O programa utiliza duas estruturas principais:
 - **Estados Finais**: O usuário define quais estados são finais.
 - **Testes de Cadeias**: O programa aceita cadeias de entrada e verifica se elas são aceitas pelo autômato.
 
-## Como Usar
+## Como Usar 🛠️
 
 1. Compile o código usando um compilador de C++ (por exemplo, `g++`).
 2. Execute o programa. O usuário será solicitado a inserir os estados, símbolos, transições, estado inicial e estados finais.
 3. Após a definição do autômato, insira cadeias para testar. O programa indicará se a cadeia é aceita ou não.
 
-## Exemplo de Execução
+## Exemplo de Execução 💻
 
 ```
 Insira as informações do autômato!
@@ -70,10 +73,11 @@ Cadeia: ab
 Cadeia é aceita pelo autômato!
 ```
 
-## Conclusão
+## Conclusão 🎓
 
 Este algoritmo de autômato é uma ferramenta básica para entender como funcionam os autômatos finitos. Você pode expandir a funcionalidade, adicionando suporte para autômatos não determinísticos, mais símbolos, ou implementando uma interface gráfica.
 
-## Licença
+## Licença 📄
 
 Este projeto é de uso educacional. Sinta-se à vontade para modificá-lo e usá-lo para fins de aprendizado.
+```
